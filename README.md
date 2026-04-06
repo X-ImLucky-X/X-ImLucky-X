@@ -84,25 +84,24 @@ I enjoy turning **complex CS concepts into simple, practical projects** 🚀
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=X-ImLucky-X&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=X-ImLucky-X&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=X-ImLucky-X&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=X-ImLucky-X&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com?user=X-ImLucky-X&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=X-ImLucky-X&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=X-ImLucky-X&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=X-ImLucky-X&theme=tokyonight&no-frame=true&margin-w=8)
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=X-ImLucky-X&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=X-ImLucky-X&limit=5&theme=tokyonight)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=X-ImLucky-X&icon=0&color=0)](https://visitcount.itsvg.in)
