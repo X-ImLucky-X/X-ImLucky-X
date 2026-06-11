@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/B.Tech%20CSE-4th%20Year-6d28d9?style=flat-square&labelColor=1e1b4b)
 ![](https://img.shields.io/badge/Focus-AI%20%7C%20Systems%20%7C%20Full%20Stack-7c3aed?style=flat-square&labelColor=1e1b4b)
-![](https://img.shields.io/badge/Location-Dehradun%2C%20India-8b5cf6?style=flat-square&labelColor=1e1b4b&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/Location-VIT%20Chennai-8b5cf6?style=flat-square&labelColor=1e1b4b&logo=googlemaps&logoColor=white)
 
 <br/>
 
@@ -19,8 +19,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=X-ImLucky-X&style=flat-square&color=6d28d9&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/X-ImLucky-X?style=flat-square&color=7c3aed&label=FOLLOWERS&labelColor=1e1b4b)
-![GitHub Stars](https://img.shields.io/github/stars/X-ImLucky-X?style=flat-square&color=8b5cf6&label=STARS&labelColor=1e1b4b)
+[![GitHub Followers](https://img.shields.io/github/followers/X-ImLucky-X?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1b4b&logo=github&logoColor=white)](https://github.com/X-ImLucky-X?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/X-ImLucky-X?style=flat-square&color=8b5cf6&label=STARS&labelColor=1e1b4b)](https://github.com/X-ImLucky-X)
 
 </div>
 
@@ -231,6 +231,9 @@ Each sheet is generated programmatically with consistent structure: problem stat
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X-ImLucky-X/X-ImLucky-X/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/X-ImLucky-X/X-ImLucky-X/output/github-snake-dark.svg" />
 </picture>
+
+<!-- ⚠️ Snake requires the GitHub Actions workflow below to be set up.
+     Create this file in your repo: .github/workflows/snake.yml -->
 
 </div>
 
