@@ -20,7 +20,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=X-ImLucky-X&style=flat-square&color=6d28d9&label=PROFILE+VIEWS)
 [![GitHub Followers](https://img.shields.io/github/followers/X-ImLucky-X?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1b4b&logo=github&logoColor=white)](https://github.com/X-ImLucky-X?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/X-ImLucky-X?style=flat-square&color=8b5cf6&label=STARS&labelColor=1e1b4b)](https://github.com/X-ImLucky-X)
 
 </div>
 
@@ -197,16 +196,6 @@ Each sheet is generated programmatically with consistent structure: problem stat
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=X-ImLucky-X&theme=tokyonight&hide_border=true&background=0d0d1a&ring=8b5cf6&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=a78bfa" width="60%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=X-ImLucky-X&theme=tokyonight&no-frame=true&margin-w=8&column=7&no-bg=true" width="100%"/>
 
 </div>
 
