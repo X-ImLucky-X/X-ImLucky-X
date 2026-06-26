@@ -297,7 +297,7 @@ OPEN_TO     : SDE · AI/ML Engineering · Research Internships · Open Source
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=X-ImLucky-X&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://gh-profile-trophy.vercel.app/?username=X-ImLucky-X&theme=darkhub&no-frame=true&no-bg=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
