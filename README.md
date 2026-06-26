@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00D4FF&height=220&section=header&text=Lakshya%20Kumar%20Singh&fontSize=52&fontColor=0a0f1e&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Systems%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=62&descColor=0a0f1e&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=00ADB5&height=220&section=header&text=Lakshya%20Kumar%20Singh&fontSize=52&fontColor=222831&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Systems%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=62&descColor=222831&descSize=18" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=650&lines=%24+whoami+--+AI+Engineer+%2B+Systems+Builder;%24+stack+--+Python+%7C+C%2B%2B+%7C+FastAPI+%7C+React+Native;%24+research+--+Data-to-Text+Generation+%5BNLP%5D;%24+building+--+VoxMail+AI+%7C+PilotOS+%7C+SMART-Graph;%24+status+--+Open+to+SDE+%2F+AI+Engineering+roles)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/B.Tech%20CSE-Final%20Year-00D4FF?style=flat-square&labelColor=0a0f1e)
-![](https://img.shields.io/badge/Specialization-Artificial%20Intelligence-FF6B35?style=flat-square&labelColor=0a0f1e)
-![](https://img.shields.io/badge/Institution-VIT%20Chennai-00D4FF?style=flat-square&labelColor=0a0f1e&logo=googlemaps&logoColor=00D4FF)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=650&lines=%24+whoami+--+AI+Engineer+%2B+Systems+Builder;%24+stack+--+Python+%7C+C%2B%2B+%7C+FastAPI+%7C+React+Native;%24+research+--+Data-to-Text+Generation+%5BNLP%5D;%24+building+--+VoxMail+AI+%7C+PilotOS+%7C+SMART-Graph;%24+status+--+Open+to+SDE+%2F+AI+Engineering+roles)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ShadowOS-00D4FF?style=for-the-badge&labelColor=0a0f1e&logo=googlechrome&logoColor=00D4FF)](https://github.com/X-ImLucky-X)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e)](https://www.linkedin.com/in/lakshya-kumar-singh-62142128b/)
-[![Gmail](https://img.shields.io/badge/Gmail-lakshyakumarsingh1-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e)](mailto:lakshyakumarsingh1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-X--ImLucky--X-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1e)](https://github.com/X-ImLucky-X)
+![](https://img.shields.io/badge/B.Tech%20CSE-Final%20Year-00ADB5?style=flat-square&labelColor=222831)
+![](https://img.shields.io/badge/Specialization-Artificial%20Intelligence-393E46?style=flat-square&labelColor=222831)
+![](https://img.shields.io/badge/Institution-VIT%20Chennai-00ADB5?style=flat-square&labelColor=222831&logo=googlemaps&logoColor=00ADB5)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=X-ImLucky-X&style=flat-square&color=00D4FF&label=PROFILE+VIEWS&labelColor=0a0f1e)
-[![GitHub Followers](https://img.shields.io/github/followers/X-ImLucky-X?label=Followers&style=flat-square&color=00D4FF&labelColor=0a0f1e&logo=github&logoColor=white)](https://github.com/X-ImLucky-X?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/X-ImLucky-X?label=Stars&style=flat-square&color=FF6B35&labelColor=0a0f1e&logo=github&logoColor=white)](https://github.com/X-ImLucky-X)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ShadowOS-00ADB5?style=for-the-badge&labelColor=222831&logo=googlechrome&logoColor=00ADB5)](https://shadow-os-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222831)](https://www.linkedin.com/in/lakshya-kumar-singh-62142128b/)
+[![Gmail](https://img.shields.io/badge/Gmail-lakshyakumarsingh1-00ADB5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222831)](mailto:lakshyakumarsingh1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-X--ImLucky--X-00ADB5?style=for-the-badge&logo=github&logoColor=white&labelColor=222831)](https://github.com/X-ImLucky-X)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=X-ImLucky-X&style=flat-square&color=00ADB5&label=PROFILE+VIEWS&labelColor=222831)
+[![GitHub Followers](https://img.shields.io/github/followers/X-ImLucky-X?label=Followers&style=flat-square&color=00ADB5&labelColor=222831&logo=github&logoColor=white)](https://github.com/X-ImLucky-X?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/X-ImLucky-X?label=Stars&style=flat-square&color=EEEEEE&labelColor=222831&logo=github&logoColor=white)](https://github.com/X-ImLucky-X)
 
 </div>
 
@@ -73,20 +73,20 @@ OPEN_TO     : SDE · AI/ML Engineering · Research Internships · Open Source
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)](https://skillicons.dev)
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0a0f1e)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0a0f1e)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0a0f1e)
-![LangGraph](https://img.shields.io/badge/LangGraph-00D4FF?style=flat-square&logoColor=white&labelColor=0a0f1e)
-![Ollama](https://img.shields.io/badge/Ollama-FF6B35?style=flat-square&logoColor=white&labelColor=0a0f1e)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0a0f1e)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=222831)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=222831)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=222831)
+![LangGraph](https://img.shields.io/badge/LangGraph-00ADB5?style=flat-square&logoColor=white&labelColor=222831)
+![Ollama](https://img.shields.io/badge/Ollama-393E46?style=flat-square&logoColor=white&labelColor=222831)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=222831)
 
 **Cloud, DevOps & Tooling**
 
 [![My Skills](https://skillicons.dev/icons?i=aws,git,github,githubactions,linux,bash&theme=dark)](https://skillicons.dev)
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0a0f1e)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&labelColor=0a0f1e)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black&labelColor=0a0f1e)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=222831)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white&labelColor=222831)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black&labelColor=222831)
 
 </div>
 
@@ -100,12 +100,12 @@ OPEN_TO     : SDE · AI/ML Engineering · Research Internships · Open Source
 
 <div align="center">
 
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-Local%20Inference%20Pipelines-00D4FF?style=flat-square&labelColor=0a0f1e)
-![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent%20AI-LangGraph%20%7C%20Ollama-FF6B35?style=flat-square&labelColor=0a0f1e)
-![NLP Research](https://img.shields.io/badge/NLP%20Research-D2T%20Generation-00D4FF?style=flat-square&labelColor=0a0f1e)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs%20%7C%20ViTs-FF6B35?style=flat-square&labelColor=0a0f1e)
-![System Design](https://img.shields.io/badge/System%20Design-Distributed%20%7C%20P2P-00D4FF?style=flat-square&labelColor=0a0f1e)
-![DSA](https://img.shields.io/badge/Competitive%20Programming-200%2B%20LeetCode-FF6B35?style=flat-square&labelColor=0a0f1e)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-Local%20Inference%20Pipelines-00ADB5?style=flat-square&labelColor=222831)
+![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent%20AI-LangGraph%20%7C%20Ollama-393E46?style=flat-square&labelColor=222831)
+![NLP Research](https://img.shields.io/badge/NLP%20Research-D2T%20Generation-00ADB5?style=flat-square&labelColor=222831)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-CNNs%20%7C%20ViTs-393E46?style=flat-square&labelColor=222831)
+![System Design](https://img.shields.io/badge/System%20Design-Distributed%20%7C%20P2P-00ADB5?style=flat-square&labelColor=222831)
+![DSA](https://img.shields.io/badge/Competitive%20Programming-200%2B%20LeetCode-393E46?style=flat-square&labelColor=222831)
 
 </div>
 
@@ -250,7 +250,7 @@ OPEN_TO     : SDE · AI/ML Engineering · Research Internships · Open Source
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/B.Tech%20CSE%20(AI%20Specialization)-VIT%20Chennai%20%7C%20Final%20Year-00D4FF?style=for-the-badge&labelColor=0a0f1e&logo=graduation-cap&logoColor=white)
+![Education](https://img.shields.io/badge/B.Tech%20CSE%20(AI%20Specialization)-VIT%20Chennai%20%7C%20Final%20Year-00ADB5?style=for-the-badge&labelColor=222831&logo=graduation-cap&logoColor=white)
 
 </div>
 
@@ -264,7 +264,11 @@ OPEN_TO     : SDE · AI/ML Engineering · Research Internships · Open Source
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-200%2B%20Problems-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0f1e)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-lakshyakumarsingh1-00ADB5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=222831)](https://leetcode.com/u/lakshyakumarsingh1/)
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/lakshyakumarsingh1?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=8&width=500" alt="LeetCode Stats"/>
 
 </div>
 
@@ -276,12 +280,12 @@ OPEN_TO     : SDE · AI/ML Engineering · Research Internships · Open Source
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=X-ImLucky-X&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0f1e&title_color=00D4FF&icon_color=FF6B35&text_color=c9d1d9&ring_color=00D4FF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-ImLucky-X&theme=transparent&hide_border=true&layout=compact&bg_color=0a0f1e&title_color=00D4FF&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=X-ImLucky-X&theme=transparent&hide_border=true&count_private=true&bg_color=222831&title_color=00ADB5&icon_color=EEEEEE&text_color=EEEEEE&ring_color=00ADB5" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-ImLucky-X&theme=transparent&hide_border=true&layout=compact&bg_color=222831&title_color=00ADB5&text_color=EEEEEE" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=X-ImLucky-X&theme=transparent&hide_border=true&background=0a0f1e&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideLabels=c9d1d9&dates=8b949e&stroke=00D4FF" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=X-ImLucky-X&theme=transparent&hide_border=true&background=222831&ring=00ADB5&fire=EEEEEE&currStreakLabel=00ADB5&sideLabels=EEEEEE&dates=EEEEEE&stroke=00ADB5" width="60%"/>
 
 </div>
 
@@ -293,7 +297,7 @@ OPEN_TO     : SDE · AI/ML Engineering · Research Internships · Open Source
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=X-ImLucky-X&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=X-ImLucky-X&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -303,7 +307,7 @@ OPEN_TO     : SDE · AI/ML Engineering · Research Internships · Open Source
 
 ## `$ git log --activity`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=X-ImLucky-X&bg_color=0a0f1e&color=00D4FF&line=FF6B35&point=00D4FF&area=true&area_color=00D4FF&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=X-ImLucky-X&bg_color=222831&color=00ADB5&line=EEEEEE&point=00ADB5&area=true&area_color=00ADB5&hide_border=true" width="100%"/>
 
 </div>
 
@@ -383,9 +387,9 @@ open_to:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1e)](https://www.linkedin.com/in/lakshya-kumar-singh-62142128b/)
-[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-FF6B35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f1e)](mailto:lakshyakumarsingh1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f1e)](https://github.com/X-ImLucky-X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=222831)](https://www.linkedin.com/in/lakshya-kumar-singh-62142128b/)
+[![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-00ADB5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=222831)](mailto:lakshyakumarsingh1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-00ADB5?style=for-the-badge&logo=github&logoColor=white&labelColor=222831)](https://github.com/X-ImLucky-X)
 
 <br/>
 
@@ -395,6 +399,6 @@ open_to:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer&fontColor=0a0f1e&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADB5&height=120&section=footer&fontColor=222831&animation=fadeIn" width="100%" />
 
 </div>
