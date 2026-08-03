@@ -1,6 +1,13 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/X-ImLucky-X/X-ImLucky-X/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/X-ImLucky-X/X-ImLucky-X/main/light.svg">
+  <img alt="Lakshya Kumar Singh" src="https://raw.githubusercontent.com/X-ImLucky-X/X-ImLucky-X/main/dark.svg">
+</picture>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00ADB5&height=220&section=header&text=Lakshya%20Kumar%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%7C%20Systems%20Builder%20%7C%20Full%20Stack%20Developer&descAlignY=62&descColor=ffffff&descSize=18" width="100%" />
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&random=false&width=650&lines=%24+whoami+--+AI+Engineer+%2B+Systems+Builder;%24+stack+--+Python+%7C+C%2B%2B+%7C+FastAPI+%7C+React+Native;%24+research+--+Data-to-Text+Generation+%5BNLP%5D;%24+building+--+VoxMail+AI+%7C+PilotOS+%7C+SMART-Graph;%24+status+--+Open+to+SDE+%2F+AI+Engineering+roles)](https://git.io/typing-svg)
 
